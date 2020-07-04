@@ -1,0 +1,83 @@
+[CENTER][IMG]https://raw.githubusercontent.com/Project-LegionOS/xda_template/10/logos/legion.jpg[/IMG]
+
+
+[Center][SIZE="5"][color="orange"][B]BY : [MENTION=6895196]RajKale99[/MENTION][/Center][/SIZE][/color][/B]
+
+
+[B][color="#ef042b"]ROM VERSION: [/COLOR]2.0[/B]
+[B][color="#ef042b"]Device: [/COLOR][/B] Redmi Note 5
+[B][color="#ef042b"]Maintainer: [/COLOR][/B] [MENTION=6895196]RajKale99[/MENTION]
+[B][color="#ef042b"]Build Status:  [/COLOR][/B]  Official
+
+[IMG]https://raw.githubusercontent.com/Project-LegionOS/xda_template/10/logos/desclaimer.png[/IMG]
+
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+
+[SIZE="4"][color="#d80404"]''This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration.."[/COLOR][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Project-LegionOS/xda_template/10/logos/abt.png[/IMG]
+
+[SIZE="4"][color="#443972"]''LEGIONOS Is just another rom which will be concentrating on features as well as battery performance on other hand , It Is based on AOSP and features are taken from many roms and packed it here"[/COLOR][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Project-LegionOS/xda_template/10/logos/instruction.png[/IMG]
+
+[SIZE="4"][B][color="#ff0000"]CLEAN FLASH : [/COLOR][/B][/SIZE]
+[SIZE="4"]Download the latest build and GApps
+Reboot to recovery 
+Make nandroid backup (Not Necessary)
+Wipe System, Data, Cache, Dalvik
+Flash the latest build and GApps(on non Gapps build)
+Reboot[/SIZE]
+
+[SIZE="4"][B][color="#ff0000"]DIRTY FLASH : [/COLOR][/B][/SIZE]
+[SIZE="4"]Download the latest build (gapps or non Gapps)
+Reboot to recovery
+Flash the latest build
+Wipe Cache
+Reboot[/SIZE]
+
+Note: GApps only has to be flashed once and on non gapps buildwhereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
+
+[IMG]https://raw.githubusercontent.com/Project-LegionOS/xda_template/10/logos/download.png[/IMG]
+[INDENT][SIZE="4"][B][COLOR="Red"][URL="https://sourceforge.net/projects/Project-LegionOS/files/vince/"]Download link[/URL] [/COLOR][/B]
+
+[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
+
+[CENTER] Note: Pico, Nano or Micro Gapps are recommended. We don't prefer STOCK/HEAVY Gapps[/CENTER]
+
+
+
+[IMG]https://raw.githubusercontent.com/Project-LegionOS/xda_template/10/logos/src.png[/IMG]
+[B][SIZE="4"][URL="https://github.com/Project-LegionOS"]LegionOS[/URL][/SIZE][/B]
+
+
+
+
+[IMG]https://raw.githubusercontent.com/Project-LegionOS/xda_template/10/logos/crcp.png[/IMG]
+[SIZE="4"]
+[B][URL="https://github.com/LineageOS"]LineageOS[/URL][/B]
+[B][URL="https://github.com/project-xtended"]Xtended[/URL][/B]
+[B][URL="https://github.com/colt-enigma"]Colt-OS[/URL][/B]
+[/SIZE]
+
+[/CENTER]
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+LEGIONOS For Redmi Note 5 / 5 Plus (Vince)
+
+[B][U][color="#0800ff"]Contributors:[/COLOR][/U][/B] [URL="https://forum.xda-developers.com/member.php?u=6895196"]Rajkale99[/URL]
+[B][color="#0847db"]Kernel Source:[/COLOR][/B]: [url]https://www.github.com/Project-LegionOS/[/url]
+
+[B][color="#004cff"]ROM OS Version:[/COLOR][/B] 10.0 Q
+[B][color="#0847db"]ROM Kernel:[/COLOR][/B] 4.9.x 
+[B][color="#0847db"]ROM Firmware Required:[/COLOR][/B] Latest Fw
+[B][color="#0847db"]Based On:[/COLOR][/B] AOSP
+
+[B][U][color="#0800ff"]Version Information[/COLOR][/U][/B]
+[B][color="#0847db"]Status:[/COLOR][/B] STABLE 
+[B][color="#0847db"]Current Stable Version:[/COLOR][/B] v2.8
+[B][color="#0847db"]Stable Release Date:[/COLOR][/B] 08-05-2020
